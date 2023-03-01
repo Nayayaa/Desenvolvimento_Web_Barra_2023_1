@@ -1,0 +1,15 @@
+#Python
+referência: https://www.python.org/
+relação: Python é uma linguagem de programação muito utilizada em diversas áreas da programação (Data science, desenvolvimento fullstack, machine learning etc...) Python é uma linguagem de alto nível mais humanizada e simplificada para o entendimento. 
+
+#Vscode
+referência: https://code.visualstudio.com/
+relação: O Vs Code é um editor de código desenvolvido pela Microsoft. Ela é uma poderosa ferramenta capaz de relazar diversas funções de códigos, uma imensa loja de extensões e ferramentas simples para aplicação de códigos. 
+
+#Git
+referência: https://git-scm.com/
+relação: O Git é um sistema de controle de versão open source utilizado para controlar o histórico e alterações de arquivos e principalmente de projetos de desenvlvimento de software.
+
+#SQLite Browser
+referência: https://sqlitebrowser.org/
+relação: O SQLite Browser é uma ferramenta visual usada para criar, projetar e editar arquivos de bacno de dados compatíveis com SQLite.
