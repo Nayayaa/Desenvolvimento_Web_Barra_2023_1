@@ -13,3 +13,7 @@ relação: O Git é um sistema de controle de versão open source utilizado para
 #SQLite Browser
 referência: https://sqlitebrowser.org/
 relação: O SQLite Browser é uma ferramenta visual usada para criar, projetar e editar arquivos de bacno de dados compatíveis com SQLite.
+
+#Protocolo proprietário de internet
+referência: https://blog.ecoit.com.br/protocolo-de-internet/
+relação: Protocolos de internet são comunicações na rede onde eles são responsáveis por endereçar e encaminhar os pacotes de dados que trafegam na Internet.
